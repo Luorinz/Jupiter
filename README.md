@@ -1,6 +1,10 @@
 # Jupiter
-Jupiter Project
+
 This Project allows user to query local events through TicketMaster API. 
+
 Users can favorite items, and get recommended events based a simple recommendation algorithm.
+
+Demo: http://54.183.240.177/Jupiter
+
 Update 04/27/2019
-___
+_____
